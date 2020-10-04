@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722849856108",
+    "firebase_url": "https://gachat-cdaf3.firebaseio.com",
+    "project_id": "gachat-cdaf3",
+    "storage_bucket": "gachat-cdaf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722849856108:android:e072df491ee5c596f3b649",
+        "android_client_info": {
+          "package_name": "com.lifeistech.litboard2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722849856108-9ghfh1hpt7m9qqcu4k4bo0ql5dq2uhh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2NLM_wWnp4PHdGu1OdElHkwAa4FZqyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722849856108-9ghfh1hpt7m9qqcu4k4bo0ql5dq2uhh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
